@@ -1,0 +1,6 @@
+Library/
+obj/
+Assembly-CSharp.csproj
+HorizontalSlidableSelector.csproj
+HorizontalSlidableSelector.sln
+*.csproj
